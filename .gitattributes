@@ -1,0 +1,3 @@
+# Сгенерированный Allure-отчёт не считается исходным кодом проекта
+allure-report/** linguist-vendored
+allure_report/** linguist-vendored
